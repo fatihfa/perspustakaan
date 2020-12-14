@@ -1,0 +1,44 @@
+D:\Project\Perpustakaan\Perpustakaan\bin\Debug\DBPerpustakaan.accdb
+D:\Project\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+D:\Project\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.exe
+D:\Project\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.pdb
+D:\Project\Perpustakaan\Perpustakaan\bin\Debug\Perpustakaan.xml
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormBuku.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormMenuUtama.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormRakdanKategori.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormKategori.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormRak.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormPeminjam.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormPeminjaman.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormProsesPeminjaman.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormCari.resources
+D:\Project\Perpustakaan\Perpustakaan\obj\x86\Debug\Perpustakaan.FormPengembalian.resources
+D:\tugas kampus'\Perpustakaan\bin\Debug\DBPerpustakaan.accdb
+D:\tugas kampus'\Perpustakaan\bin\Debug\Perpustakaan.exe.config
+D:\tugas kampus'\Perpustakaan\bin\Debug\Perpustakaan.exe
+D:\tugas kampus'\Perpustakaan\bin\Debug\Perpustakaan.pdb
+D:\tugas kampus'\Perpustakaan\bin\Debug\Perpustakaan.xml
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.vbprojAssemblyReference.cache
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormBuku.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormCari.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormPeminjam.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormKategori.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormMenuUtama.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormPeminjaman.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormPengembalian.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormProsesPeminjaman.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormRak.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.FormRakdanKategori.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.Resources.resources
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.GenerateResource.cache
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.vbproj.CoreCompileInputs.cache
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.exe
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.xml
+D:\tugas kampus'\Perpustakaan\obj\x86\Debug\Perpustakaan.pdb
